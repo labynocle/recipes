@@ -1,2 +1,5 @@
-# recipes
-The Aleikoum's main recipes
+# Aleikoum's main recipes
+
+## Main Course
+
+* [Veggie Croquettes](./veggie_croquettes)
