@@ -7,3 +7,4 @@
 ## Dessert
 
 * [Vegan Cookies](./vegan_cookies)
+* [Coco Rocks](./coco_rocks)
