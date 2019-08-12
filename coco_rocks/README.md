@@ -35,7 +35,7 @@ grating coconut | 100g
 * cook it for 10 minutes in a bain-marie
 * and keep mixing it with a whisk
 
-![Coco Rocks - Step 5](./images/coco_rocks-01.jpeg)
+![Coco Rocks - Step 2](./images/coco_rocks-01.jpg)
 
 ### Step 3: shape the rocks
 
@@ -49,7 +49,7 @@ grating coconut | 100g
 
 ### Step 5: enjoy
 
-![Coco Rocks - Step 5](./images/coco_rocks-02.jpeg)
+![Coco Rocks - Step 5](./images/coco_rocks-02.jpg)
 
 
 ## Improvements / Ideas
