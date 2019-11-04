@@ -13,3 +13,4 @@
 ## Misc
 
 * [Cheese Naans](./cheese_naans)
+* [Date Energy Balls](./date_energy_balls)
