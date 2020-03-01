@@ -44,7 +44,12 @@ to finish with your hands to obtain an homogeneous/consistent and smooth dough.
 
 * last sub steps: add the olive oil and keep mixing with your hands until the dough is no more sticky
 * wrap the dough with a cling film and keep it for 30 minutes
+
+![Cheese Naans - Step 1 - film the dough](./images/cheese_naans-01.jpg)
+
 * then divide the dough in 5 balls (use flour if the dough is too sticky)
+
+![Cheese Naans - Step 1 - divide the dough](./images/cheese_naans-02.jpg)
 
 ### Step 2: prepare the cheese mix
 
@@ -65,7 +70,7 @@ This is the tricky part...
 
 ### Step 4: enjoy
 
-![Cheese Naans - Step 4](./images/cheese_naans-01.jpg)
+![Cheese Naans - Step 4](./images/cheese_naans-03.jpg)
 
 ## Improvements / Ideas
 
