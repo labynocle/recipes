@@ -8,6 +8,7 @@
 
 * [Vegan Cookies](./vegan_cookies)
 * [Coco Rocks](./coco_rocks)
+* [Banana Chocolate Cake](./banana_chocolate_cake)
 
 ## Misc
 
