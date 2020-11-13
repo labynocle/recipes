@@ -29,7 +29,12 @@ cacao           | 2 tablespoons
 ### Step 1: mix it up
 
 * except the gratting coconut, put in your blender every ingredients
+
+![Date Energy Balls - Step 1](./images/date_energy_balls-01.jpeg)
+
 * mix it up
+
+![Date Energy Balls - Step 1 bis](./images/date_energy_balls-02.jpeg)
 
 ### Step 2: shape the "balls"
 
@@ -39,6 +44,10 @@ cacao           | 2 tablespoons
 
 * put the gratting coconut in a bowl
 * roll every "balls" in the gratting coconut
+
+![Date Energy Balls - Step 3](./images/date_energy_balls-03.jpeg)
+
+![Date Energy Balls - Step 4](./images/date_energy_balls-04.jpeg)
 
 
 ## Improvements / Ideas
