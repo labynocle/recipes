@@ -3,6 +3,7 @@
 ## Main Course
 
 * [Veggie Croquettes](./veggie_croquettes)
+* [Taboule](./taboule)
 
 ## Dessert
 
