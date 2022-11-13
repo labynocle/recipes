@@ -4,6 +4,7 @@
 
 * [Veggie Croquettes](./veggie_croquettes)
 * [Taboule](./taboule)
+* [Lahmacuns](./lahmacun)
 
 ## Dessert
 
