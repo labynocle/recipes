@@ -21,10 +21,11 @@ What?                             | How Many?
 couscous (medium)                 | 200g
 tomatoes                          | 500g
 cucumber                          | 1
-spring onions                     | 10
+spring onions                     | 7
 lemons                            | 1,5
 olive oil                         | 150ml
 herbs (mint,parsley,chives)       | small bowl
+
 
 ## Recipe's Steps
 
